@@ -1,0 +1,16 @@
+---
+title: "MyWebSite3"
+jupyter: python3
+---
+
+또 터지면 퇴소함
+
+말했다
+
+진짜
+
+말햇어
+
+```{python}
+1 + 1
+```
